@@ -84,7 +84,7 @@
             <HintPath>$(GameManagedDir)\..\..\BepInEx\core\BepInEx.dll</HintPath>
         </Reference>
         <Reference Include="BoscaliOceanTrainingExercise">
-            <HintPath>$(BepInExPluginsDir)/Bote_1.5.4.dll</HintPath>
+            <HintPath>$(BepInExPluginsDir)/Bote_1.5.5.dll</HintPath>
         </Reference>
         <Reference Include="Blueprinter.shippack">
             <HintPath>$(BepInExPluginsDir)/p2082.expansion82.dll</HintPath>
